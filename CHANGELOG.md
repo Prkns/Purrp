@@ -1,5 +1,3 @@
 # Change Log
 
-## 0.0.1
-
-- Started Development
+## 0.0.1 - Started Development

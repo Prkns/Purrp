@@ -1,0 +1,47 @@
+{
+  "name": "purrp-vscode",
+  "displayName": "Purrp",
+  "description": "A clean, minimal and purple theme for VS Code.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "publisher": "prkns",
+  "author": "David Perkins <@perki>",
+  "preview": true,
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#261b2c",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "minimal",
+    "purple",
+    "dark",
+    "clean"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prkns/Purrp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prkns/Purrp/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purrp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purrp-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "David Perkins"
+  }
+}
