@@ -240,6 +240,34 @@
   },
   "tokenColors": [
     {
+      "name": "Twig Italic",
+      "scope": "meta.tag.template.block.twig",
+      "settings": {
+        "font-style": "italic"
+      }
+    },
+    {
+      "name": "Twig Open",
+      "scope": "punctuation.section.tag.twig, keyword.control.twig, punctuation.separator.property.twig, punctuation.definition.string.begin.twig, punctuation.definition.string.end.twig, punctuation.definition.parameters.begin.twig, punctuation.definition.parameters.end.twig",
+      "settings": {
+        "foreground": "#ae95bd"
+      }
+    },
+    {
+      "name": "Twig Text",
+      "scope": "variable.other.twig, meta.tag.template.value.twig, variable.other.property.twig, string.quoted.double.twig, string.quoted.single.twig",
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "Twig Operators",
+      "scope": "keyword.operator.assignment.twig, constant.numeric.twig, keyword.operator.comparison.twig",
+      "settings": {
+        "foreground": "#b174f7"
+      }
+    },
+    {
       "name": "Comment",
       "scope": "comment, punctuation.definition.comment",
       "settings": {

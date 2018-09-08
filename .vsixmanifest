@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="purrp-vscode" Version="0.0.1" Publisher="prkns"/>
-    <DisplayName>Purrp Theme</DisplayName>
+    <Identity Language="en-US" Id="purrp-vscode" Version="0.0.2" Publisher="prkns"/>
+    <DisplayName>Purrp! Theme</DisplayName>
     <Description xml:space="preserve">A clean, minimal and purple theme for VS Code.</Description>
     <Tags>vscode</Tags>
     <Categories>Themes</Categories>
@@ -14,7 +14,7 @@
       <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://prkns.me/README.md" />
       <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/Prkns/Purrp/issues" />
 
-      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#ffe04b" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#4e2e63" />
       <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
     </Properties>

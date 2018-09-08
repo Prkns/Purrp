@@ -2,6 +2,8 @@
 
 **Purrp** is a slightly opinionated, super minimal yet intentionally and unashamedly dark and purple VS Code theme. Crafted especially for [Visual Studio Code](https://code.visualstudio.com), with subtle and contrasting purple tones aimed at being easy on the eyes.
 
+![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/prkns.purrp-vscode.svg)
+
 ---
 
 ![Main ScreenShot](https://raw.githubusercontent.com/Prkns/Purrp/master/screenshot.png)
@@ -45,6 +47,6 @@ Purrp isn’t just a theme, but an attempt to create a look and feel that makes 
 
 Your mileage may vary.
 
-## License
+## 🗒️ License
 
 MIT
