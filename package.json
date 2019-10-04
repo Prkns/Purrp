@@ -3,9 +3,9 @@
   "displayName": "Purrp! Theme",
   "description": "A clean, minimal and purple theme for VS Code.",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "prkns",
-  "author": "David Perkins <@perki>",
+  "author": "David Perkins <david@prkns.me>",
   "preview": true,
   "engines": {
     "vscode": "^1.22.0"
